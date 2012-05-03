@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoNancy", "MonoNancy\MonoNancy.csproj", "{D23054D1-DE18-449D-AE6A-D962EE276720}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoNancyWeb", "MonoNancyWeb\MonoNancyWeb.csproj", "{D23054D1-DE18-449D-AE6A-D962EE276720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,6 @@ Global
 		{D23054D1-DE18-449D-AE6A-D962EE276720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = MonoNancy\MonoNancy.csproj
+		StartupItem = MonoNancyWeb\MonoNancyWeb.csproj
 	EndGlobalSection
 EndGlobal
